@@ -79,7 +79,6 @@ Are you considering supporting the project by donating to me? Please DO NOT!!!
 
 India has recently suffered one of the most devastating train accidents, and your help will be immensely valuable for the people who were affected by this tragedy.
 
-Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of-the-coromandel-express-train-tragedy-in-odisha-donate-now) and make a small donation to help the people in need. A small donation goes a long way. :heart:
 
 </p>
 
@@ -119,7 +118,6 @@ Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of
   - [On other platforms](#on-other-platforms)
   - [Disable rate limit protections](#disable-rate-limit-protections)
   - [Keep your fork up to date](#keep-your-fork-up-to-date)
-- [:sparkling\_heart: Support the project](#sparkling_heart-support-the-project)
 
 # Important Notices <!-- omit in toc -->
 
